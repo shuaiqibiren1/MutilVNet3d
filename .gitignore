@@ -1,5 +1,8 @@
 *.nii
 *.nii.gz
 *.npy
+*.pyc
 PytorchDeepLearing/log/MutilVNet3d/CE/
 PytorchDeepLearing/.history
+PytorchDeepLearing/model/__pycache__
+PytorchDeepLearing/networks/__pycache__
