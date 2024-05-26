@@ -1,0 +1,5 @@
+*.nii
+*.nii.gz
+*.npy
+PytorchDeepLearing/log/MutilVNet3d/CE/
+PytorchDeepLearing/.history
