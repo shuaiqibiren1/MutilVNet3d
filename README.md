@@ -43,7 +43,7 @@ pip freeze > requirements.txt
 nohup python train.py > output.log &
 ```
 
-## 生成``.sh`文件：
+## 生成`.sh`文件：
 
 ```bash
 sed 's/\r//' data_prepar.sh > data_prepare.sh
